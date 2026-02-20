@@ -1,0 +1,1 @@
+A keyword density checker tool that analyzes keyword occurrences in text.
